@@ -6,7 +6,6 @@ Face Detector is a simple web application that uses JavaScript to detect faces i
 
 - Detects faces in images uploaded by users.
 - Provides bounding boxes around detected faces.
-- Displays the number of faces detected in each image.
 
 ## Usage
 
